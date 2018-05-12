@@ -1,0 +1,35 @@
+_repo: The-OddsAnd-Other-Stories_16380
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dell, Ethel M. (Ethel May)
+    aliases:
+    - Savage, Ethel Mary Dell
+    - Dell, Ethel May
+    birthdate: 1881
+    deathdate: 1939
+    gutenberg_agent_id: '3564'
+    url: http://www.gutenberg.org/2009/agents/3564
+    wikipedia: http://en.wikipedia.org/wiki/Ethel_M._Dell
+description: ''
+gutenberg_issued: '2005-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16380'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- !lcsh 'Fiction'
+tableOfContents: The odds -- Without prejudice -- Her own free will -- The consolation
+  prize -- Her freedom -- Death's property -- The sacrifice.
+title: 'The Odds
+
+  And Other Stories'
+url: http://www.gutenberg.org/ebooks/16380
